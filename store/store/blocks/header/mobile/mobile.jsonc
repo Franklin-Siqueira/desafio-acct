@@ -89,9 +89,9 @@
             "highlight": false,
             "itemProps": {
               "type": "internal",
-              "href": "/",
+              "href": "/sobre-nos",
               "noFollow": false,
-              "tagTitle": "Acct",
+              "tagTitle": "Saiba mais sobre a Acct",
               "text": "ACCT"
             }
           }
@@ -106,7 +106,7 @@
               "type": "internal",
               "href": "/",
               "noFollow": false,
-              "tagTitle": "o-que-fazemos",
+              "tagTitle": "O que fazemos",
               "text": "O que fazemos"
             }
           }
@@ -121,7 +121,7 @@
               "type": "internal",
               "href": "/",
               "noFollow": false,
-              "tagTitle": "blog",
+              "tagTitle": "Acesse o nosso blog",
               "text": "Blog"
             }
           }
@@ -136,7 +136,7 @@
               "type": "internal",
               "href": "/",
               "noFollow": false,
-              "tagTitle": "contato",
+              "tagTitle": "Página de contato",
               "text": "Contato"
             }
           }
@@ -151,7 +151,7 @@
               "type": "internal",
               "href": "/",
               "noFollow": false,
-              "tagTitle": "idiomas",
+              "tagTitle": "Idiomas",
               "text": "Idiomas:"
             }
           }
